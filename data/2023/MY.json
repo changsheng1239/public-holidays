@@ -5,17 +5,17 @@
         "country": "my",
         "date": "2023-01-01",
         "states": [
-            "Malacca",
-            "Negeri Sembilan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Selangor",
-            "Sabah",
-            "Sarawak",
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "MLK",
+            "NSN",
+            "PHG",
+            "PNG",
+            "PRK",
+            "SGR",
+            "SBH",
+            "SWK",
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -24,17 +24,17 @@
         "country": "my",
         "date": "2023-01-02",
         "states": [
-            "Malacca",
-            "Negeri Sembilan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Selangor",
-            "Sabah",
-            "Sarawak",
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "MLK",
+            "NSN",
+            "PHG",
+            "PNG",
+            "PRK",
+            "SGR",
+            "SBH",
+            "SWK",
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -43,7 +43,7 @@
         "country": "my",
         "date": "2023-01-14",
         "states": [
-            "Negeri Sembilan"
+            "NSN"
         ]
     },
     {
@@ -61,20 +61,20 @@
         "country": "my",
         "date": "2023-01-23",
         "states": [
-            "Johor",
-            "Kedah",
-            "Malacca",
-            "Negeri Sembilan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Perlis",
-            "Selangor",
-            "Sabah",
-            "Sarawak",
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "JHR",
+            "KDH",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PNG",
+            "PRK",
+            "PLS",
+            "SGR",
+            "SBH",
+            "SWK",
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -83,8 +83,8 @@
         "country": "my",
         "date": "2023-01-23",
         "states": [
-            "Kelantan",
-            "Terengganu"
+            "KTN",
+            "TRG"
         ]
     },
     {
@@ -93,9 +93,9 @@
         "country": "my",
         "date": "2023-02-01",
         "states": [
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -104,14 +104,14 @@
         "country": "my",
         "date": "2023-02-05",
         "states": [
-            "Johor",
-            "Kedah",
-            "Negeri Sembilan",
-            "Penang",
-            "Perak",
-            "Selangor",
-            "Kuala Lumpur",
-            "Putrajaya"
+            "JHR",
+            "KDH",
+            "NSN",
+            "PNG",
+            "PRK",
+            "SGR",
+            "KUL",
+            "PJY"
         ]
     },
     {
@@ -120,10 +120,10 @@
         "country": "my",
         "date": "2023-02-18",
         "states": [
-            "Kedah",
-            "Negeri Sembilan",
-            "Perlis",
-            "Terengganu"
+            "KDH",
+            "NSN",
+            "PLS",
+            "TRG"
         ]
     },
     {
@@ -132,7 +132,7 @@
         "country": "my",
         "date": "2023-03-04",
         "states": [
-            "Terengganu"
+            "TRG"
         ]
     },
     {
@@ -141,9 +141,9 @@
         "country": "my",
         "date": "2023-03-23",
         "states": [
-            "Johor",
-            "Kedah",
-            "Malacca"
+            "JHR",
+            "KDH",
+            "MLK"
         ]
     },
     {
@@ -152,7 +152,7 @@
         "country": "my",
         "date": "2023-03-23",
         "states": [
-            "Johor"
+            "JHR"
         ]
     },
     {
@@ -161,8 +161,8 @@
         "country": "my",
         "date": "2023-04-07",
         "states": [
-            "Sabah",
-            "Sarawak"
+            "SBH",
+            "SWK"
         ]
     },
     {
@@ -171,16 +171,16 @@
         "country": "my",
         "date": "2023-04-08",
         "states": [
-            "Kelantan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Perlis",
-            "Selangor",
-            "Terengganu",
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "KTN",
+            "PHG",
+            "PNG",
+            "PRK",
+            "PLS",
+            "SGR",
+            "TRG",
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -189,7 +189,7 @@
         "country": "my",
         "date": "2023-04-15",
         "states": [
-            "Malacca"
+            "MLK"
         ]
     },
     {
@@ -225,7 +225,7 @@
         "country": "my",
         "date": "2023-04-26",
         "states": [
-            "Terengganu"
+            "TRG"
         ]
     },
     {
@@ -252,7 +252,7 @@
         "country": "my",
         "date": "2023-05-22",
         "states": [
-            "Pahang"
+            "PHG"
         ]
     },
     {
@@ -261,8 +261,8 @@
         "country": "my",
         "date": "2023-05-30",
         "states": [
-            "Sabah",
-            "Labuan"
+            "SBH",
+            "LBN"
         ]
     },
     {
@@ -271,8 +271,8 @@
         "country": "my",
         "date": "2023-05-31",
         "states": [
-            "Sabah",
-            "Labuan"
+            "SBH",
+            "LBN"
         ]
     },
     {
@@ -281,7 +281,7 @@
         "country": "my",
         "date": "2023-06-01",
         "states": [
-            "Sarawak"
+            "SWK"
         ]
     },
     {
@@ -290,7 +290,7 @@
         "country": "my",
         "date": "2023-06-02",
         "states": [
-            "Sarawak"
+            "SWK"
         ]
     },
     {
@@ -308,7 +308,7 @@
         "country": "my",
         "date": "2023-06-18",
         "states": [
-            "Kedah"
+            "KDH"
         ]
     },
     {
@@ -317,8 +317,8 @@
         "country": "my",
         "date": "2023-06-28",
         "states": [
-            "Kelantan",
-            "Terengganu"
+            "KTN",
+            "TRG"
         ]
     },
     {
@@ -336,8 +336,8 @@
         "country": "my",
         "date": "2023-06-30",
         "states": [
-            "Kedah",
-            "Perlis"
+            "KDH",
+            "PLS"
         ]
     },
     {
@@ -346,8 +346,8 @@
         "country": "my",
         "date": "2023-06-30",
         "states": [
-            "Kelantan",
-            "Terengganu"
+            "KTN",
+            "TRG"
         ]
     },
     {
@@ -356,7 +356,7 @@
         "country": "my",
         "date": "2023-07-07",
         "states": [
-            "Penang"
+            "PNG"
         ]
     },
     {
@@ -365,7 +365,7 @@
         "country": "my",
         "date": "2023-07-08",
         "states": [
-            "Penang"
+            "PNG"
         ]
     },
     {
@@ -374,7 +374,7 @@
         "country": "my",
         "date": "2023-07-17",
         "states": [
-            "Perlis"
+            "PLS"
         ]
     },
     {
@@ -392,7 +392,7 @@
         "country": "my",
         "date": "2023-07-22",
         "states": [
-            "Sarawak"
+            "SWK"
         ]
     },
     {
@@ -401,7 +401,7 @@
         "country": "my",
         "date": "2023-07-30",
         "states": [
-            "Pahang"
+            "PHG"
         ]
     },
     {
@@ -410,7 +410,7 @@
         "country": "my",
         "date": "2023-07-31",
         "states": [
-            "Pahang"
+            "PHG"
         ]
     },
     {
@@ -419,7 +419,7 @@
         "country": "my",
         "date": "2023-08-14",
         "states": [
-            "Selangor"
+            "SGR"
         ]
     },
     {
@@ -428,7 +428,7 @@
         "country": "my",
         "date": "2023-08-23",
         "states": [
-            "Johor"
+            "JHR"
         ]
     },
     {
@@ -437,7 +437,7 @@
         "country": "my",
         "date": "2023-08-24",
         "states": [
-            "Malacca"
+            "MLK"
         ]
     },
     {
@@ -473,7 +473,7 @@
         "country": "my",
         "date": "2023-10-07",
         "states": [
-            "Sabah"
+            "SBH"
         ]
     },
     {
@@ -482,7 +482,7 @@
         "country": "my",
         "date": "2023-10-14",
         "states": [
-            "Sarawak"
+            "SWK"
         ]
     },
     {
@@ -491,7 +491,7 @@
         "country": "my",
         "date": "2023-11-03",
         "states": [
-            "Perak"
+            "PRK"
         ]
     },
     {
@@ -500,7 +500,7 @@
         "country": "my",
         "date": "2023-11-11",
         "states": [
-            "Kelantan"
+            "KTN"
         ]
     },
     {
@@ -509,21 +509,21 @@
         "country": "my",
         "date": "2023-11-12",
         "states": [
-            "Johor",
-            "Kedah",
-            "Kelantan",
-            "Malacca",
-            "Negeri Sembilan",
-            "Pahang",
-            "Penang",
-            "Perak",
-            "Perlis",
-            "Sabah",
-            "Selangor",
-            "Terengganu",
-            "Kuala Lumpur",
-            "Labuan",
-            "Putrajaya"
+            "JHR",
+            "KDH",
+            "KTN",
+            "MLK",
+            "NSN",
+            "PHG",
+            "PNG",
+            "PRK",
+            "PLS",
+            "SBH",
+            "SGR",
+            "TRG",
+            "KUL",
+            "LBN",
+            "PJY"
         ]
     },
     {
@@ -532,7 +532,7 @@
         "country": "my",
         "date": "2023-11-12",
         "states": [
-            "Kelantan"
+            "KTN"
         ]
     },
     {
@@ -541,7 +541,7 @@
         "country": "my",
         "date": "2023-12-11",
         "states": [
-            "Selangor"
+            "SGR"
         ]
     },
     {
@@ -550,7 +550,7 @@
         "country": "my",
         "date": "2023-12-24",
         "states": [
-            "Sabah"
+            "SBH"
         ]
     },
     {
