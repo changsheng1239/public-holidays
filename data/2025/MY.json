@@ -1,0 +1,490 @@
+[
+  {
+    "name": "New Year's Day",
+    "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+    "country": "my",
+    "date": "2025-01-01",
+    "states": [
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "SGR",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Birthday of Yang di-Pertuan Besar",
+    "description": "Birthday of Yang di-Pertuan Besar is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-01-14",
+    "states": [
+      "NSN"
+    ]
+  },
+  {
+    "name": "Isra and Mi'raj",
+    "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+    "country": "my",
+    "date": "2025-01-27",
+    "states": [
+      "KDH",
+      "NSN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Lunar New Year's Day",
+    "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+    "country": "my",
+    "date": "2025-01-29",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Second Day of Lunar New Year",
+    "description": "Second Day of Lunar New Year is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-01-30",
+    "states": [
+      "JHR",
+      "KDH",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Lunar New Year Holiday",
+    "description": "Lunar New Year Holiday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-01-30",
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Federal Territory Day",
+    "description": "Federal Territory Day is a federal territory holiday in Malaysia",
+    "country": "my",
+    "date": "2025-02-01",
+    "states": [
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "First Day of Ramadan",
+    "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+    "country": "my",
+    "date": "2025-03-01",
+    "states": [
+      "JHR",
+      "KDH",
+      "MLK"
+    ]
+  },
+  {
+    "name": "Anniversary of the Coronation of the Sultan of Terengganu",
+    "description": "Anniversary of the Coronation of the Sultan of Terengganu is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-03-04",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "name": "Nuzul Al-Quran",
+    "description": "Nuzul Al-Quran is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-03-17",
+    "states": [
+      "KTN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Johor",
+    "description": "Birthday of the Sultan of Johor is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-03-23",
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "name": "Hari Raya Puasa",
+    "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+    "country": "my",
+    "date": "2025-03-31",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Puasa Day 2",
+    "description": "Hari Raya Puasa Day 2 is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-04-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Declaration of Malacca as Historical City",
+    "description": "Declaration of Malacca as Historical City is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-04-15",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "Good Friday",
+    "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+    "country": "my",
+    "date": "2025-04-18",
+    "states": [
+      "SBH",
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Terengganu",
+    "description": "Birthday of the Sultan of Terengganu is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-04-26",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "name": "Labour Day",
+    "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+    "country": "my",
+    "date": "2025-05-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Pahang State Holiday",
+    "description": "Pahang State Holiday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-05-22",
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "name": "Harvest Festival",
+    "description": "Harvest Festival is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-05-30",
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "name": "Second Day of Harvest Festival",
+    "description": "Second Day of Harvest Festival is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-05-31",
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "name": "Gawai Dayak",
+    "description": "Gawai Dayak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-01",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "The Yang di-Pertuan Agong's Birthday",
+    "description": "The Yang di-Pertuan Agong's Birthday is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-02",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Gawai Dayak observed",
+    "description": "Gawai Dayak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-02",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Gawai Dayak Holiday",
+    "description": "Gawai Dayak Holiday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-02",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Day of Arafat",
+    "description": "Day of Arafat is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-06",
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Hari Raya Haji",
+    "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+    "country": "my",
+    "date": "2025-06-07",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Haji (Day 2)",
+    "description": "Hari Raya Haji (Day 2) is a common local holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-08",
+    "states": [
+      "KDH",
+      "KTN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Sultan of Kedah's Birthday",
+    "description": "Sultan of Kedah's Birthday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-15",
+    "states": [
+      "KDH"
+    ]
+  },
+  {
+    "name": "Muharram/New Year",
+    "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+    "country": "my",
+    "date": "2025-06-27",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "George Town World Heritage City Day",
+    "description": "George Town World Heritage City Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-07-07",
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "name": "Penang Governor's Birthday",
+    "description": "Penang Governor's Birthday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-07-12",
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "name": "Birthday of the Raja of Perlis",
+    "description": "Birthday of the Raja of Perlis is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-07-17",
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "name": "Sarawak Independence Day",
+    "description": "Sarawak Independence Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-07-22",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Pahang",
+    "description": "Birthday of the Sultan of Pahang is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-07-30",
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "name": "Almarhum Sultan Iskandar Hol Day",
+    "description": "Almarhum Sultan Iskandar Hol Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-08-01",
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Malacca",
+    "description": "Birthday of the Governor of Malacca is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-08-24",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Malacca observed",
+    "description": "Birthday of the Governor of Malacca is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-08-25",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "Malaysia's National Day",
+    "description": "Malaysia's National Day is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-08-31",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Malaysia's National Day observed",
+    "description": "Malaysia's National Day is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-09-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "The Prophet Muhammad's Birthday",
+    "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+    "country": "my",
+    "date": "2025-09-05",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Malaysia Day",
+    "description": "Malaysia Day is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2025-09-16",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Sabah",
+    "description": "Birthday of the Governor of Sabah is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-10-04",
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Sarawak",
+    "description": "Birthday of the Governor of Sarawak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-10-11",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Perak",
+    "description": "Birthday of the Sultan of Perak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-11-07",
+    "states": [
+      "PRK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan",
+    "description": "Birthday of the Sultan of Kelantan is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-11-11",
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan (Day 2)",
+    "description": "Birthday of the Sultan of Kelantan (Day 2) is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-11-12",
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Selangor",
+    "description": "Birthday of the Sultan of Selangor is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-12-11",
+    "states": [
+      "SGR"
+    ]
+  },
+  {
+    "name": "Christmas Eve",
+    "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+    "country": "my",
+    "date": "2025-12-24",
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "name": "Christmas Day",
+    "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+    "country": "my",
+    "date": "2025-12-25",
+    "states": [
+      "All"
+    ]
+  }
+]
