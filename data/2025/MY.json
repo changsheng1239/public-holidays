@@ -1,7 +1,7 @@
 [
   {
     "name": "New Year's Day",
-    "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+    "description": "New Year's Day is the first day of the year, or January 1, in the Gregorian calendar.",
     "country": "my",
     "date": "2025-01-01",
     "states": [
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "name": "Birthday of Yang di-Pertuan Besar",
+    "name": "Birthday of Yang di-Pertuan Besar Negeri Sembilan",
     "description": "Birthday of Yang di-Pertuan Besar is a state holiday in Malaysia",
     "country": "my",
     "date": "2025-01-14",
@@ -54,30 +54,7 @@
     "country": "my",
     "date": "2025-01-30",
     "states": [
-      "JHR",
-      "KDH",
-      "MLK",
-      "NSN",
-      "PHG",
-      "PNG",
-      "PRK",
-      "PLS",
-      "SGR",
-      "SBH",
-      "SWK",
-      "KUL",
-      "LBN",
-      "PJY"
-    ]
-  },
-  {
-    "name": "Lunar New Year Holiday",
-    "description": "Lunar New Year Holiday is a state holiday in Malaysia",
-    "country": "my",
-    "date": "2025-01-30",
-    "states": [
-      "KTN",
-      "TRG"
+      "All"
     ]
   },
   {
@@ -92,14 +69,46 @@
     ]
   },
   {
-    "name": "First Day of Ramadan",
+    "name": "Thaipusam",
+    "description": "Thaipusam is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-02-11",
+    "states": [
+        "JHR",
+        "NSN",
+        "PNG",
+        "PRK",
+        "SGR",
+        "KUL",
+        "PJY"
+    ]
+  },
+  {
+    "name": "Independence Declaration Day ",
+    "description": "Independence Declaration Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-02-20",
+    "states": [
+        "MLK"
+    ]
+  },
+  {
+    "name": "Awal Ramadan",
     "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
     "country": "my",
-    "date": "2025-03-01",
+    "date": "2025-03-02",
     "states": [
       "JHR",
-      "KDH",
-      "MLK"
+      "KDH"
+    ]
+  },
+  {
+    "name": "Awal Ramadan observed",
+    "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+    "country": "my",
+    "date": "2025-03-03",
+    "states": [
+      "JHR"
     ]
   },
   {
@@ -115,7 +124,7 @@
     "name": "Nuzul Al-Quran",
     "description": "Nuzul Al-Quran is a state holiday in Malaysia",
     "country": "my",
-    "date": "2025-03-17",
+    "date": "2025-03-18",
     "states": [
       "KTN",
       "PHG",
@@ -139,6 +148,15 @@
     ]
   },
   {
+    "name": "Birthday of the Sultan of Johor observed",
+    "description": "Birthday of the Sultan of Johor is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-03-24",
+    "states": [
+      "JHR"
+    ]
+  },
+  {
     "name": "Hari Raya Puasa",
     "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
     "country": "my",
@@ -157,10 +175,10 @@
     ]
   },
   {
-    "name": "Declaration of Malacca as Historical City",
-    "description": "Declaration of Malacca as Historical City is a state holiday in Malaysia",
+    "name": "Hari Raya Puasa Day 3",
+    "description": "Hari Raya Puasa Day 3 is a state holiday in Malaysia",
     "country": "my",
-    "date": "2025-04-15",
+    "date": "2025-04-02",
     "states": [
       "MLK"
     ]
@@ -185,6 +203,15 @@
     ]
   },
   {
+    "name": "Birthday of the Sultan of Terengganu observed",
+    "description": "Birthday of the Sultan of Terengganu is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-04-27",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
     "name": "Labour Day",
     "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
     "country": "my",
@@ -194,8 +221,26 @@
     ]
   },
   {
-    "name": "Pahang State Holiday",
-    "description": "Pahang State Holiday is a state holiday in Malaysia",
+    "name": "Wesak Day",
+    "description": "Wesak Day is a day celebrated by Buddhists around the world.",
+    "country": "my",
+    "date": "2025-05-12",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Perlis",
+    "description": "Birthday of the Sultan of Perlis is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-05-17",
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "name": "Hari Hol Pahang",
+    "description": "Hari Hol Pahang is a state holiday in Malaysia",
     "country": "my",
     "date": "2025-05-22",
     "states": [
@@ -232,6 +277,15 @@
     ]
   },
   {
+    "name": "Gawai Dayak",
+    "description": "Gawai Dayak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-02",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
     "name": "The Yang di-Pertuan Agong's Birthday",
     "description": "The Yang di-Pertuan Agong's Birthday is a federal public holiday in Malaysia",
     "country": "my",
@@ -241,19 +295,10 @@
     ]
   },
   {
-    "name": "Gawai Dayak observed",
-    "description": "Gawai Dayak is a state holiday in Malaysia",
+    "name": "The Yang di-Pertuan Agong's Birthday observed",
+    "description": "The Yang di-Pertuan Agong's Birthday is a federal public holiday in Malaysia",
     "country": "my",
-    "date": "2025-06-02",
-    "states": [
-      "SWK"
-    ]
-  },
-  {
-    "name": "Gawai Dayak Holiday",
-    "description": "Gawai Dayak Holiday is a state holiday in Malaysia",
-    "country": "my",
-    "date": "2025-06-02",
+    "date": "2025-06-03",
     "states": [
       "SWK"
     ]
@@ -290,21 +335,41 @@
     ]
   },
   {
+    "name": "Hari Raya Haji observed",
+    "description": "Hari Raya Haji is a common local holiday in Malaysia",
+    "country": "my",
+    "date": "2025-06-09",
+    "states": [
+      "KTN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
     "name": "Sultan of Kedah's Birthday",
     "description": "Sultan of Kedah's Birthday is a state holiday in Malaysia",
     "country": "my",
-    "date": "2025-06-15",
+    "date": "2025-06-22",
     "states": [
       "KDH"
     ]
   },
   {
-    "name": "Muharram/New Year",
+    "name": "Awal Muharram",
     "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
     "country": "my",
     "date": "2025-06-27",
     "states": [
       "All"
+    ]
+  },
+  {
+    "name": "Awal Muharram observed",
+    "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+    "country": "my",
+    "date": "2025-06-29",
+    "states": [
+      "KDH"
     ]
   },
   {
@@ -323,15 +388,6 @@
     "date": "2025-07-12",
     "states": [
       "PNG"
-    ]
-  },
-  {
-    "name": "Birthday of the Raja of Perlis",
-    "description": "Birthday of the Raja of Perlis is a state holiday in Malaysia",
-    "country": "my",
-    "date": "2025-07-17",
-    "states": [
-      "PLS"
     ]
   },
   {
@@ -356,13 +412,13 @@
     "name": "Almarhum Sultan Iskandar Hol Day",
     "description": "Almarhum Sultan Iskandar Hol Day is a state holiday in Malaysia",
     "country": "my",
-    "date": "2025-08-01",
+    "date": "2025-07-31",
     "states": [
       "JHR"
     ]
   },
   {
-    "name": "Birthday of the Governor of Malacca",
+    "name": "Melaka Governor's Birthday",
     "description": "Birthday of the Governor of Malacca is a state holiday in Malaysia",
     "country": "my",
     "date": "2025-08-24",
@@ -371,7 +427,7 @@
     ]
   },
   {
-    "name": "Birthday of the Governor of Malacca observed",
+    "name": "Melaka Governor's Birthday observed",
     "description": "Birthday of the Governor of Malacca is a state holiday in Malaysia",
     "country": "my",
     "date": "2025-08-25",
@@ -394,7 +450,19 @@
     "country": "my",
     "date": "2025-09-01",
     "states": [
-      "All"
+      "JHR",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SBH",
+      "SWK",
+      "SGR",
+      "KUL",
+      "LBN",
+      "PJY"
     ]
   },
   {
@@ -407,12 +475,39 @@
     ]
   },
   {
+    "name": "The Prophet Muhammad's Birthday observed",
+    "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+    "country": "my",
+    "date": "2025-09-07",
+    "states": [
+      "KDH"
+    ]
+  },
+  {
     "name": "Malaysia Day",
     "description": "Malaysia Day is a federal public holiday in Malaysia",
     "country": "my",
     "date": "2025-09-16",
     "states": [
       "All"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan",
+    "description": "Birthday of the Sultan of Kelantan is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-09-29",
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan (Day 2)",
+    "description": "Birthday of the Sultan of Kelantan is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2025-09-30",
+    "states": [
+      "KTN"
     ]
   },
   {
@@ -434,30 +529,35 @@
     ]
   },
   {
+    "name": "Diwali/Deepavali",
+    "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+    "country": "my",
+    "date": "2025-10-20",
+    "states": [
+        "JHR",
+        "KDH",
+        "KTN",
+        "MLK",
+        "NSN",
+        "PHG",
+        "PNG",
+        "PRK",
+        "PLS",
+        "SBH",
+        "SGR",
+        "TRG",
+        "KUL",
+        "LBN",
+        "PJY"
+    ]
+},
+  {
     "name": "Birthday of the Sultan of Perak",
     "description": "Birthday of the Sultan of Perak is a state holiday in Malaysia",
     "country": "my",
     "date": "2025-11-07",
     "states": [
       "PRK"
-    ]
-  },
-  {
-    "name": "Birthday of the Sultan of Kelantan",
-    "description": "Birthday of the Sultan of Kelantan is a state holiday in Malaysia",
-    "country": "my",
-    "date": "2025-11-11",
-    "states": [
-      "KTN"
-    ]
-  },
-  {
-    "name": "Birthday of the Sultan of Kelantan (Day 2)",
-    "description": "Birthday of the Sultan of Kelantan (Day 2) is a state holiday in Malaysia",
-    "country": "my",
-    "date": "2025-11-12",
-    "states": [
-      "KTN"
     ]
   },
   {
