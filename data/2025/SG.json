@@ -18,6 +18,15 @@
     ]
   },
   {
+    "name": "Lunar New Year's Day",
+    "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+    "country": "sg",
+    "date": "2025-01-30",
+    "states": [
+      "All"
+    ]
+  },
+  {
     "name": "Hari Raya Puasa",
     "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
     "country": "sg",
@@ -57,7 +66,7 @@
     "name": "Hari Raya Haji",
     "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
     "country": "sg",
-    "date": "2025-06-06",
+    "date": "2025-06-07",
     "states": [
       "All"
     ]
@@ -75,7 +84,7 @@
     "name": "Diwali/Deepavali",
     "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
     "country": "sg",
-    "date": "2025-10-21",
+    "date": "2025-10-20",
     "states": [
       "All"
     ]
