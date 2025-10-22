@@ -1,0 +1,631 @@
+[
+  {
+    "name": "New Year's Day",
+    "description": "New Year’s Day is the first day of the year, or January 1, in the Gregorian calendar.",
+    "country": "my",
+    "date": "2026-01-01",
+    "states": [
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "SGR",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Birthday of Yang di-Pertuan Besar",
+    "description": "Birthday of Yang di-Pertuan Besar is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-01-14",
+    "states": [
+      "NSN"
+    ]
+  },
+  {
+    "name": "Isra and Mi'raj",
+    "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+    "country": "my",
+    "date": "2026-01-17",
+    "states": [
+      "KDH",
+      "NSN",
+      "PLS",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Isra and Mi'raj observed",
+    "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+    "country": "my",
+    "date": "2026-01-18",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "name": "Federal Territory Day",
+    "description": "Federal Territory Day is a federal territory holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-01",
+    "states": [
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Thaipusam",
+    "description": "Thaipusam is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-01",
+    "states": [
+      "JHR",
+      "NSN",
+      "PNG",
+      "PRK",
+      "SGR",
+      "KUL",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Federal Territory Day observed",
+    "description": "Federal Territory Day is a federal territory holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-02",
+    "states": [
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Thaipusam observed",
+    "description": "Thaipusam is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-02",
+    "states": [
+      "JHR",
+      "NSN",
+      "PNG",
+      "PRK",
+      "SGR",
+      "KUL",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Chinese New Year",
+    "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+    "country": "my",
+    "date": "2026-02-17",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Second Day of Chinese New Year",
+    "description": "Second Day of Chinese New Year is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-18",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Awal Ramadan",
+    "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+    "country": "my",
+    "date": "2026-02-19",
+    "states": [
+      "JHR",
+      "KDH"
+    ]
+  },
+  {
+    "name": "Independence Day Declaration Day",
+    "description": "Independence Day Declaration Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-02-20",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "Anniversary of the Coronation of the Sultan of Terengganu",
+    "description": "Anniversary of the Coronation of the Sultan of Terengganu is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-04",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "name": "Nuzul Al-Quran",
+    "description": "Nuzul Al-Quran is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-07",
+    "states": [
+      "KTN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Nuzul Al-Quran observed",
+    "description": "Nuzul Al-Quran is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-08",
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Hari Raya Aidilfitri",
+    "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+    "country": "my",
+    "date": "2026-03-21",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Aidilfitri",
+    "description": "Hari Raya Aidilfitri is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-22",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Aidilfitri observed",
+    "description": "Hari Raya Aidilfitri is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-23",
+    "states": [
+      "JHR",
+      "KTN",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Johor",
+    "description": "Birthday of the Sultan of Johor is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-23",
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "name": "Hari Raya Aidilfitri observed",
+    "description": "Hari Raya Aidilfitri is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-24",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "Hari Jadi Yang di-Pertua Negeri Sabah",
+    "description": "Hari Jadi Yang di-Pertua Negeri Sabah is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-03-30",
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "name": "Good Friday",
+    "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+    "country": "my",
+    "date": "2026-04-03",
+    "states": [
+      "SBH",
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Terengganu",
+    "description": "Birthday of the Sultan of Terengganu is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-04-26",
+    "states": [
+      "TRG"
+    ]
+  },
+  {
+    "name": "Labour Day",
+    "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+    "country": "my",
+    "date": "2026-05-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Labour Day observed",
+    "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+    "country": "my",
+    "date": "2026-05-03",
+    "states": [
+      "KDH"
+    ]
+  },
+  {
+    "name": "Birthday of the Raja of Perlis",
+    "description": "Birthday of the Raja of Perlis is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-17",
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "name": "Birthday of the Raja of Perlis observed",
+    "description": "Birthday of the Raja of Perlis is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-18",
+    "states": [
+      "PLS"
+    ]
+  },
+  {
+    "name": "Hari Hol Almarhum Sultan Ahmad Shah Al-Musta'in Billah ibni Almarhum Sultan Abu Bakar",
+    "description": "Hari Hol Almarhum Sultan Ahmad Shah Al-Musta'in Billah ibni Almarhum Sultan Abu Bakar is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-22",
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "name": "Day of Arafah",
+    "description": "Day of Arafah is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-26",
+    "states": [
+      "KTN",
+      "TRG"
+    ]
+  },
+  {
+    "name": "Hari Raya Haji",
+    "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+    "country": "my",
+    "date": "2026-05-27",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Haji (Day 2)",
+    "description": "Hari Raya Haji (Day 2) is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-28",
+    "states": [
+      "KTN",
+      "TRG",
+      "KDH",
+      "PLS"
+    ]
+  },
+  {
+    "name": "Harvest Festival",
+    "description": "Harvest Festival is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-30",
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "name": "Second Day of Harvest Festival",
+    "description": "Second Day of Harvest Festival is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-31",
+    "states": [
+      "SBH",
+      "LBN"
+    ]
+  },
+  {
+    "name": "Wesak Day",
+    "description": "Wesak Day is a federal holiday in Malaysia",
+    "country": "my",
+    "date": "2026-05-31",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Wesak Day Observed",
+    "description": "Wesak Day is a federal holiday in Malaysia",
+    "country": "my",
+    "date": "2026-06-01",
+    "states": [
+      "JHR",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "SBH",
+      "SWK",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "The Yang di-Pertuan Agong's Birthday",
+    "description": "The Yang di-Pertuan Agong's Birthday is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-06-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Gawai Dayak",
+    "description": "Gawai Dayak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-06-01",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Gawai Dayak Holiday",
+    "description": "Gawai Dayak Holiday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-06-02",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Awal Muharam",
+    "description": "Awal Muharam is the first month of the Islamic calendar and a time of remembrance or mourning.",
+    "country": "my",
+    "date": "2026-06-17",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Sultan of Kedah's Birthday",
+    "description": "Sultan of Kedah's Birthday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-06-21",
+    "states": [
+      "KDH"
+    ]
+  },
+  {
+    "name": "George Town World Heritage City Day",
+    "description": "George Town World Heritage City Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-07-07",
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "name": "Penang Governor's Birthday",
+    "description": "Penang Governor's Birthday is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-07-11",
+    "states": [
+      "PNG"
+    ]
+  },
+  {
+    "name": "Almarhum Sultan Iskandar Hol Day",
+    "description": "Almarhum Sultan Iskandar Hol Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-07-21",
+    "states": [
+      "JHR"
+    ]
+  },
+  {
+    "name": "Sarawak Independence Day",
+    "description": "Sarawak Independence Day is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-07-22",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Pahang",
+    "description": "Birthday of the Sultan of Pahang is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-07-31",
+    "states": [
+      "PHG"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Malacca",
+    "description": "Birthday of the Governor of Malacca is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-08-24",
+    "states": [
+      "MLK"
+    ]
+  },
+  {
+    "name": "The Prophet Muhammad's Birthday",
+    "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+    "country": "my",
+    "date": "2026-08-25",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Malaysia's National Day",
+    "description": "Malaysia's National Day is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-08-31",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Malaysia Day",
+    "description": "Malaysia Day is a federal public holiday in Malaysia",
+    "country": "my",
+    "date": "2026-09-16",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan",
+    "description": "Birthday of the Governor of Sarawak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-09-29",
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Kelantan",
+    "description": "Birthday of the Governor of Sarawak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-09-30",
+    "states": [
+      "KTN"
+    ]
+  },
+  {
+    "name": "Birthday of the Governor of Sarawak",
+    "description": "Birthday of the Governor of Sarawak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-10-10",
+    "states": [
+      "SWK"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Perak",
+    "description": "Birthday of the Sultan of Perak is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-11-06",
+    "states": [
+      "PRK"
+    ]
+  },
+  {
+    "name": "Deepavali",
+    "description": "Deepavali is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-11-08",
+    "states": [
+      "JHR",
+      "KDH",
+      "KTN",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "TRG",
+      "SBH",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Deepavali",
+    "description": "Deepavali is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-11-09",
+    "states": [
+      "JHR",
+      "MLK",
+      "NSN",
+      "PHG",
+      "PNG",
+      "PRK",
+      "PLS",
+      "SGR",
+      "SBH",
+      "KUL",
+      "LBN",
+      "PJY"
+    ]
+  },
+  {
+    "name": "Birthday of the Sultan of Selangor",
+    "description": "Birthday of the Sultan of Selangor is a state holiday in Malaysia",
+    "country": "my",
+    "date": "2026-12-11",
+    "states": [
+      "SGR"
+    ]
+  },
+  {
+    "name": "Christmas Eve",
+    "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+    "country": "my",
+    "date": "2026-12-24",
+    "states": [
+      "SBH"
+    ]
+  },
+  {
+    "name": "Christmas Day",
+    "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+    "country": "my",
+    "date": "2026-12-25",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Christmas Day observed",
+    "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+    "country": "my",
+    "date": "2026-12-27",
+    "states": [
+      "KDH"
+    ]
+  }
+]

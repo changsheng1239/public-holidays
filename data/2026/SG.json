@@ -1,0 +1,119 @@
+[
+  {
+    "name": "New Year's Day",
+    "description": "New Year's Day is the first day of the year, or January 1, in the Gregorian calendar.",
+    "country": "sg",
+    "date": "2026-01-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Chinese New Year's Day",
+    "description": "Lunar New Year is the first day of the Chinese calendar, which is a lunisolar calendar mainly used for traditional celebrations.",
+    "country": "sg",
+    "date": "2026-02-17",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Second Day of Chinese New Year",
+    "description": "Second Day of Chinese New Year is a national holiday in Singapore",
+    "country": "sg",
+    "date": "2026-02-18",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Puasa",
+    "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+    "country": "sg",
+    "date": "2026-03-21",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Good Friday",
+    "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+    "country": "sg",
+    "date": "2026-04-03",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Labour Day",
+    "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+    "country": "sg",
+    "date": "2026-05-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Hari Raya Haji",
+    "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+    "country": "sg",
+    "date": "2026-05-27",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Wesak Day",
+    "description": "Wesak Day is a national holiday in Singapore",
+    "country": "sg",
+    "date": "2026-05-31",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Wesak Day observed",
+    "description": "Wesak Day is a national holiday in Singapore",
+    "country": "sg",
+    "date": "2026-06-01",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "National Day",
+    "description": "National Day is a national holiday in Singapore",
+    "country": "sg",
+    "date": "2026-08-09",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Diwali/Deepavali",
+    "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+    "country": "sg",
+    "date": "2026-11-08",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Day off for Diwali/Deepavali",
+    "description": "Diwali, also known as the Festival of Lights, is one of the most popular Hindu festivals.",
+    "country": "sg",
+    "date": "2026-11-09",
+    "states": [
+      "All"
+    ]
+  },
+  {
+    "name": "Christmas Day",
+    "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+    "country": "sg",
+    "date": "2026-12-25",
+    "states": [
+      "All"
+    ]
+  }
+]
